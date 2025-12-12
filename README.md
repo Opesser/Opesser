@@ -1,7 +1,5 @@
 <h1 align="center">Hello👻 Treewit</h1>
-<div align="center">
-  <img src="[https://ลิงก์รูปภาพของคุณ.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanYzaGNtbjljd2x1ZGV2MDMzZTBwbmJzZTBnMTRkZW9oM2JibDQyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jcpggDXzJICDVkWY9i/giphy.gif)" width="400" />
-</div>
+![คำอธิบายรูป](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanYzaGNtbjljd2x1ZGV2MDMzZTBwbmJzZTBnMTRkZW9oM2JibDQyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jcpggDXzJICDVkWY9i/giphy.gif)
 <h3 align="center">[][][][]77%</h3>
 
 - 🔭 I’m currently web Ocean Pay Store **Ocean Pay Store**
